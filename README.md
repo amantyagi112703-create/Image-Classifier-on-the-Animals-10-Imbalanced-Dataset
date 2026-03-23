@@ -5,5 +5,5 @@ This is an Image classifier on the animals 10 kaggle dataset. This was a project
 
 Coming soon
 
-# Vibe Coded using Claude
+# Vibe Coded using ChatGPT
 
